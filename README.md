@@ -1,9 +1,6 @@
-# AngularTest
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.3.
-
-
 ## Main Objectives
-Implement the bare minimum functionality for an Album Manager. User must be able to:
+Implement the bare minimum functionality for an Album Manager. 
+User must be able to:
 - view a list of albums
 - view details of an album
 - create a new album
@@ -27,7 +24,7 @@ The Static server provides static html+css templates for the 3 pages:
 - templates/add.html - album create/edit;
 
 ### API Endpoints
-There is an API for persisting changes at
+There is an API for persisting changes at:
 http://angular-test.getsandbox.com
 
 There 5 endpoints
