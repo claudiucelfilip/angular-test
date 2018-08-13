@@ -10,11 +10,11 @@ Implement the bare minimum functionality for an Album Manager. User must be able
 - remove an album
 
 ## Extra Points
-- dynamic search
+If you have time, implement any of the following:
+- dynamic search on album list (on the client side)
 - implement the edit album page
 - create a directive
-- create a pipe
-- create a service
+- create a custom pipe
 - create a few tests e2e and unit test
 - use observables
 - use route resolvers
