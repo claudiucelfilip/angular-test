@@ -51,7 +51,7 @@ Album Object
 }
 ```
 
-#### Development
+### Development Info
 Run `ng start` for a dev server. This will open two browser tabs:
 - `http://localhost:4200/` - serves Angular App;
 - `http://localhost:4201/` - serves Static Template Files;
