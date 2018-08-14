@@ -6,8 +6,8 @@ User must be able to:
 - create a new album
 - remove an album
 
-## Extra Points
-If you have time, implement any of the following:
+## Optional Objectives
+Implement any of the following for extra appreciation points:
 - dynamic search on album list (on the client side)
 - implement the edit album page
 - form validation
@@ -25,6 +25,7 @@ The Static server provides static HTML templates for the 3 pages:
 - templates/add.html - album create/edit;
 
 The templates use boostrap 4 CSS and FontAwesome icons.
+Feel free to add/remove any needed/missing components to them.
 
 ### API Endpoints
 There is an API for persisting changes at:
