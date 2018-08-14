@@ -42,8 +42,8 @@ Album Object
 {
     "id": "number",  // automatically generated
     "title": "string",
-    "artistName": "string",
-    "yearReleased": "number",
+    "artist": "string",
+    "year": "number",
     "type": "string"
 }
 ```
