@@ -54,6 +54,7 @@ Album Object
 ```
 
 ### Development Info
+The project is setup with Angular 6 CLI; for which you'll need node 8.9 or greater to run.
 Run `ng start` for a dev server. This will open two browser tabs:
 - `http://localhost:4200/` - serves Angular App;
 - `http://localhost:4201/` - serves Static Template Files;
