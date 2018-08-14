@@ -31,7 +31,7 @@ Feel free to add/remove any needed/missing components to them.
 There is an API for persisting changes at:
 http://angular-test.getsandbox.com
 
-There 5 endpoints
+There are 5 endpoints:
 - "GET /": "retrieve a list of supported endpoints",
 - "GET /albums": "retrieve all the albums",
 - "POST /albums": "create a new album",
@@ -42,7 +42,6 @@ There 5 endpoints
 All POST and DELETE endpoints respond with {"status": "ok"} if successfull.
 
 There's no schema validation on but the following is preferred:
-
 Album Object
 ```
 {
