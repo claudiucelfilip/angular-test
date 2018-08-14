@@ -10,6 +10,7 @@ User must be able to:
 If you have time, implement any of the following:
 - dynamic search on album list (on the client side)
 - implement the edit album page
+- form validation
 - create a directive
 - create a custom pipe
 - create a few tests e2e and unit test
