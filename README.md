@@ -18,10 +18,12 @@ If you have time, implement any of the following:
 - lazy load part a of functionality
 
 ### Template Files
-The Static server provides static html+css templates for the 3 pages:
+The Static server provides static HTML templates for the 3 pages:
 - templates/index.html - album listing;
 - templates/details.html - album details;
 - templates/add.html - album create/edit;
+
+The templates use boostrap 4 CSS and FontAwesome icons.
 
 ### API Endpoints
 There is an API for persisting changes at:
