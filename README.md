@@ -35,12 +35,14 @@ There 5 endpoints
 - "POST /albums/{albumId}": "update album with {albumId}",
 - "DELETE /albums/{albumId}": "remove album with {albumId}"
 
+All POST and DELETE endpoints respond with {"status": "ok"} if successfull.
+
 There's no schema validation on but the following is preferred:
 
 Album Object
 ```
 {
-    "id": "number",  // automatically generated
+    "id": "number",  // optional, automatically generated on server side
     "title": "string",
     "artist": "string",
     "year": "number",
