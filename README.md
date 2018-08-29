@@ -13,7 +13,7 @@ Implement any of the following for extra appreciation points:
 - form validation
 - create a directive
 - create a custom pipe
-- create a few tests e2e and unit test
+- create a few e2e and unit tests
 - use observables
 - use route resolvers
 - lazy load part a of functionality
